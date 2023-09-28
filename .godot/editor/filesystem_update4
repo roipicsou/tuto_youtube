@@ -1,3 +1,4 @@
 res://scène/main.tscn
 res://script/main.gd
-res://scène/mob.tscn
+res://script/hud.gd
+res://scène/hud.tscn

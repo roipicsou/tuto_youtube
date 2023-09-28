@@ -1,7 +1,13 @@
+AudioStreamPlayer
+AudioStreamPlayer2D
+ColorRect
+Timer
+Button
+Label
+CanvasLayer
 PathFollow2D
 Path2D
 Marker2D
-Timer
 Node
 VisibleOnScreenNotifier2D
 VisibleOnScreenEnabler2D
